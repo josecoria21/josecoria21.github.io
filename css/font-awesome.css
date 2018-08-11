@@ -5,8 +5,8 @@
 }
 @media screen and (max-width: 601px) {
     .navegacion {
-        height: 100%;
-        width: 100%;
+        height: 600px;
+        width: 600px;
         background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-qy0dNO5T9tI2r8apuLhOZB4MK0td1Ilv2e5zRiehBxlwQrB");
     }
     
