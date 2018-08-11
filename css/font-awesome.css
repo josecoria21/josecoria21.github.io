@@ -4,4 +4,7 @@
         height: auto;
         width: auto;
     }
+    .normal{
+        display:none;
+    }
 }
