@@ -1,8 +1,8 @@
 @media only screen and (max-width: 600px) {
     .navegacion {
         background-image: url("https://goo.gl/images/ZKJQ5s");
-        height: auto;
-        width: auto;
+        height: 100%;
+        width: 100%;
     }
     .normal{
         display:none;
